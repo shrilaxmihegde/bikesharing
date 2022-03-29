@@ -9,19 +9,21 @@ The NYC data  analyzed to show trends for times of day, days of the week, gender
  Dataframe:
  
 ![citibikedataframe)](/Resources/citibike_dataframe.png) 
-1. Number of records by trip duration. 
+1. Number of records by trip duration.  Looking at the visulization, we can see maximum trip duration is within an hour.
 
-3. Looking at visualizations for 'Checkout Times for Users' and 'Checkout Times by Gender', we see that most rides are for 20  to 30 minutes  and that the bigger majority of rides are less than one hour. We also see that this pattern is the same regardless of gender.
+![citibikedataframe)](/Resources/number_of_records_by_duration.png) 
+
+2. Looking at visualizations for 'Checkout Times for Users' and 'Checkout Times by Gender', we see that most rides are for 20  to 30 minutes  and that the bigger majority of rides are less than one hour. We also see that this pattern is the same regardless of gender.
 
 ![CheckoutTimeforUsers)](/Resources/Checkout_Time_forUsers.png) 
 
-2. Trips by weekday per hour, Heatmap clearly shows in evening useage 4 to 7 pm  is the more then morning and weekend.
+3. Trips by weekday per hour, Heatmap clearly shows in evening useage 4 to 7 pm  is the more then morning and weekend.
  
 ![Tripbyweekdayperhour)](/Resources/Tripby_weekday_per_hour.png) 
 
-3. The 'Trips by Gender (Weekday per Hour)' heatmap shows that the useage pattern is true regardless of gender, although the total numbers for males is considerably higher.
+4. The 'Trips by Gender (Weekday per Hour)' heatmap shows that the useage pattern is true regardless of gender, although the total numbers for males is considerably higher.
  
-4. The 'User Trips by Gender by Weekday' heatmap demonstrates the following points: Here two types Users, ***Customer*** and  ***Subscriber*** and also divided by gender.
+5. The 'User Trips by Gender by Weekday' heatmap demonstrates the following points: Here two types Users, ***Customer*** and  ***Subscriber*** and also divided by gender.
 Customer usage Male,Female and Unknown here not much difference in  weekdays and weekend. But this map showing subscribers are *** Male*** user  most of the weekdays used other then Female and unknown. 
 
 ## NYC Citibike Dashboard :
